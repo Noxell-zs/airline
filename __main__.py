@@ -4,7 +4,7 @@ Reservation of seat.
 Cancel of reservation.
 
 Run the main program:
-    python -m reservation
+    python -m airline
 
 
 :Author:
@@ -13,7 +13,7 @@ Run the main program:
 """
 
 
-from reservation.management import *
+from management import *
 
 
 def info():

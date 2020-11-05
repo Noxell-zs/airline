@@ -9,8 +9,8 @@ Functions:
 """
 
 
-from reservation.zones import *
-from reservation.planes import *
+from zones import *
+from planes import *
 
 
 my_planes = {}
